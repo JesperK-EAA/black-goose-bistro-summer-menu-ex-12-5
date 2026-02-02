@@ -25,3 +25,11 @@ strong {
 dt strong {
     color: tomato;
 }
+
+#info {
+    color: cadetblue;
+}
+
+#info p {
+    font-style: italic;
+}
